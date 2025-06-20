@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/42aa9a93aff426157ccace55c83ebff9a6ef666ad769063f20d27b30e2d85224/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)
+(https://camo.githubusercontent.com/42aa9a93aff426157ccace55c83ebff9a6ef666ad769063f20d27b30e2d85224/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)
 <h1 align="center">Hi 👋, I'm Rachit Bansal</h1>
 <h3 align="center">Programmer | Storyteller | Humorist</h3>
 <img align="right" alt="GitHub" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif"> 
