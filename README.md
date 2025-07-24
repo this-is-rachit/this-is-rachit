@@ -3,11 +3,9 @@
 <img align="right" alt="GitHub" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=this-is-rachit&label=Profile%20views&color=0e75b6&style=flat" alt="this-is-rachit" /> </p>
 
-- 🔭 I’m currently working on **Arogya: Fitness Guide**
-
 - 🌱 I’m currently learning **Web Dev and also exploring the field of AI**
 
-- 👨‍💻 All of my projects are available at [https://this-is-rachit.netlify.app/](https://this-is-rachit.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rachit-portfolio023.vercel.app/](https://rachit-portfolio023.vercel.app/)
 
 - 📫 How to reach me **rachitbansal023@gmail.com**
 
